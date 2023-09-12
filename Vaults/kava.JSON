@@ -1,0 +1,55 @@
+{
+  "vaults": {
+    "mint": [
+      {
+        "id": "mint-sphere-vevara",
+        "name": "Mint spVARA",
+        "creationDate": 1680652800,
+
+        "status": "active",
+        "platform": "dyson",
+        "poolComposition": ["VARA"],
+
+        "wallet": ["0xE1da44C0dA55B075aE8E2e4b6986AdC76Ac77d73"],
+        "vaultAddress": "0x489e54EEc6C228A1457975Eb150A7EFb8350b5bE",
+        "strategyAddress": "",
+
+        "togglers": {
+          "bypassPeg": true
+        }
+      }
+    ],
+    "regular": [
+      {
+        "id": "equilibre-spvara-vara",
+        "name": "spVARA/VARA Equilibre",
+        "creationDate": 1680652800,
+
+        "status": "active",
+        "platform": "equilibre",
+        "poolComposition": ["spVARA", "VARA"],
+
+        "wallet": ["0xaf9ae147ca628e9da718f63da3e6e248b8606b7b"],
+        "vaultAddress": "0x97472aD4f0489d1d6139119A217457Caaa74c732",
+        "strategyAddress": "0x43F862c545372b22C01eCE733FF243A3AD50e8A0",
+
+        "togglers": {}
+      }
+    ]
+  },
+  "template": {
+    "id": "",
+    "name": "",
+    "creationDate": 0,
+
+    "status": "active",
+    "platform": "",
+    "poolComposition": ["", ""],
+
+    "wallet": [""],
+    "vaultAddress": "",
+    "strategyAddress": "",
+
+    "togglers": {}
+  }
+}

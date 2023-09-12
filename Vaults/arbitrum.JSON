@@ -1,0 +1,563 @@
+{
+  "vaults": {
+    "uniswap-v3": [
+      {
+        "id": "Dyson-arb-UniV3-WETH/GMX",
+        "name": "WETH/GMX Uniswap V3",
+        "creationDate": 1675814400,
+
+        "status": "active",
+        "platform": "uniswap-v3",
+        "poolComposition": ["WETH", "GMX"],
+
+        "wallet": [
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
+        ],
+        "vaultAddress": "0x6C7e1caF8AF916B7f0a493Dc89148Bb3f813d6d1",
+        "strategyAddress": "0xb380f4E591fEc6A2646079DC4a72F0110cDF8EFa",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-UniV3-WETH/USDT",
+        "name": "WETH/USDT Uniswap V3",
+        "creationDate": 1675814400,
+
+        "status": "active",
+        "platform": "uniswap-v3",
+        "poolComposition": ["WETH", "USDT"],
+        "wallet": [
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        ],
+        "vaultAddress": "0x9c9790C82859DB18ce974FA5e9bD2927C845B1D4",
+        "strategyAddress": "0xe9287b61b27c1FA37EECcaF20a04871d6fe53903",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-UniV3-WETH/USDC30bps",
+        "name": "WETH/USDC.e Uniswap V3 30 BPS",
+        "creationDate": 1675814400,
+
+        "status": "active",
+        "platform": "uniswap-v3",
+        "poolComposition": ["WETH", "USDC.e"],
+
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", ""],
+        "vaultAddress": "0xb5A3e0F1C9B3b9B8c478EDB8c62043b2beB7eDF1",
+        "strategyAddress": "0x4458b4AaDCf376FF442f7e820E62bc90C00a45A5",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-UniV3-USDT/USDC5bps",
+        "name": "USDT/USDC.e Uniswap V3 5bps",
+        "creationDate": 1675814400,
+
+        "status": "active",
+        "platform": "uniswap-v3",
+        "poolComposition": ["USDT", "USDC.e"],
+
+        "wallet": [
+          "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "vaultAddress": "0x17831B2d149BD43fbdE0EB1b727F86aBBd5053fD",
+        "strategyAddress": "0xAAaF1E4795D23923865e88413C65f7c8a366C18f",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-UniV3-WBTC/WETH",
+        "name": "WBTC/WETH Uniswap V3",
+        "creationDate": 1675814400,
+
+        "status": "active",
+        "platform": "uniswap-v3",
+        "poolComposition": ["WBTC", "WETH"],
+
+        "wallet": [
+          "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+        ],
+        "vaultAddress": "0xb33775911fc0375538c2D90733f749AD8A203e00",
+        "strategyAddress": "0x74dc3f6D138e9A8f38dF88BD9153075F42bFb205",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-UniV3-WETH/USDC5bps",
+        "name": "WETH/USDC.e Uniswap V3 5 BPS",
+        "creationDate": 1675814400,
+
+        "status": "active",
+        "platform": "uniswap-v3",
+        "poolComposition": ["WETH", "USDC.e"],
+
+        "wallet": [
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "vaultAddress": "0x505A98d9aFda51D3dB779e2aA3941CbFF429BE7a",
+        "strategyAddress": "0x04D9C66B4922A4BAe4aba29D2f2548a578853164",
+
+        "togglers": {}
+      }
+    ],
+    "chronos-cl": [
+      {
+        "id": "Dyson-arb-ChrV3-WETH/USDT-5bps",
+        "name": "WETH/USDT Chronos V3 5Bps",
+        "creationDate": 1691625600,
+
+        "status": "active",
+        "platform": "chronos-v3",
+        "poolComposition": ["WETH", "USDT"],
+
+        "wallet": [
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        ],
+        "vaultAddress": "0xcd7e3bdbe5f4053f0c9e51013887aba8ccec239c",
+        "strategyAddress": "0xbd9c12e5e2aa7311d8e738b9ce0dffe8483ebd34",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-ChrV3-WETH/USDCe-5bps",
+        "name": "WETH/USDC.e Chronos V3 5Bps",
+        "creationDate": 1691625600,
+
+        "status": "active",
+        "platform": "chronos-v3",
+        "poolComposition": ["WETH", "USDC.e"],
+
+        "wallet": [
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "vaultAddress": "0x9a56f822babfbfdc2f25cb34eb952ff38af869d8",
+        "strategyAddress": "0x45d4d227863371b94bcb94e1375b604bc51cfd26",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-ChrV3-ARB/USDCe-5bps",
+        "name": "ARB/USDC.e Chronos V3 5Bps",
+        "creationDate": 1691625600,
+
+        "status": "active",
+        "platform": "chronos-v3",
+        "poolComposition": ["ARB", "USDC.e"],
+
+        "wallet": [
+          "0x912ce59144191c1204e64559fe8253a0e49e6548",
+          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "vaultAddress": "",
+        "strategyAddress": "",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-ChrV3-WETH/ARB-5bps",
+        "name": "WETH/ARB Chronos V3 5Bps",
+        "creationDate": 1691625600,
+
+        "status": "active",
+        "platform": "chronos-v3",
+        "poolComposition": ["WETH", "ARB"],
+
+        "wallet": [
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "0x912ce59144191c1204e64559fe8253a0e49e6548"
+        ],
+        "vaultAddress": "0x951966d474f13260f90a3E770b53589013d49241",
+        "strategyAddress": "0x5ac9da0a19b8333f871590956fc1af07fee99b84",
+
+        "togglers": {}
+      },
+      {
+        "id": "Dyson-arb-ChrV3-STAR/USDCe-1bps",
+        "name": "STAR/USDC.e Chronos V3 1Bps",
+        "creationDate": 1691625600,
+
+        "status": "active",
+        "platform": "chronos-v3",
+        "poolComposition": ["STAR", "USDC.e"],
+
+        "wallet": [
+          "0xc19669a405067927865b40ea045a2baabbbe57f5",
+          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
+        "vaultAddress": "0xd416063128bf5A81D20547adaDf29b74440D6699",
+        "strategyAddress": "0xb049225c99d6e52a74868f8aa785379106dc6e72",
+
+        "togglers": {}
+      }
+    ],
+    "mint": [
+      {
+        "id": "mint-sphere-vesliz",
+        "name": "Mint spSLIZ",
+        "creationDate": 1677715200,
+
+        "status": "active",
+        "platform": "dyson",
+        "poolComposition": ["SLIZ"],
+
+        "wallet": ["0x463913d3a3d3d291667d53b8325c598eb88d3b0e"],
+        "vaultAddress": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
+        "strategyAddress": "",
+
+        "togglers": {
+          "bypassPeg": false
+        }
+      },
+      {
+        "id": "mint-sphere-vestr",
+        "name": "Mint spSTR",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "dyson",
+        "poolComposition": ["STR"],
+
+        "wallet": ["0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68"],
+        "vaultAddress": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
+        "strategyAddress": "",
+
+        "togglers": {
+          "bypassPeg": true,
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "mint-sphere-vechr",
+        "name": "Mint spCHR",
+        "creationDate": 1677715200,
+
+        "status": "active",
+        "platform": "dyson",
+        "poolComposition": ["CHR"],
+
+        "wallet": ["0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851"],
+        "vaultAddress": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
+        "strategyAddress": "",
+
+        "togglers": {
+          "bypassPeg": true,
+          "customMessage": "When minting spCHR you pay a 5% fee."
+        }
+      }
+    ],
+    "regular": [
+      {
+        "id": "solidlizard-usdt-usdc",
+        "name": "USDT/USDC SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["USDT", "USDC"],
+
+        "wallet": ["0xC9dF93497B1852552F2200701cE58C236cC0378C"],
+        "vaultAddress": "0xaeD0E3CEC057Ca82cd562c358a91aEdd2510eCEc",
+        "strategyAddress": "0x1cC6cC16c4B8D43668198829B78d9C80873D2492",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-ageur-usdc",
+        "name": "agEUR/USDC SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["AGEUR", "USDC"],
+
+        "wallet": ["0x5cd95bc186E41419e6B48a0153833C8105781292"],
+        "vaultAddress": "0xe5103Cc276370dD4012DAA6304C3f11187da3f85",
+        "strategyAddress": "0x11f958d065Bc19DDEcd2a5C3E1399ef5866db978",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-lusd-usdt",
+        "name": "LUSD/USDT SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["LUSD", "USDT"],
+
+        "wallet": ["0x76306492d938ae46df657c006e642b4d31dc6bd9"],
+        "vaultAddress": "0xC2a16f7164B98CD6AcFFbcBd46defc6AA3B95A59",
+        "strategyAddress": "0x8e120a16AbFF38b329D3dAd389cd9f6EEaFaCdfF",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-lusd-usdc",
+        "name": "LUSD/USDC SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["LUSD", "USDC"],
+
+        "wallet": ["0xB1E9b823295B3C69ac651C05D987B67189ff20AD"],
+        "vaultAddress": "0xaddB5609d0524d5FB65E626dDD135F5798d1748A",
+        "strategyAddress": "0x208c8fe51d5BDF014E2303f87Eb92adFd52E2259",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-usdp-usdc",
+        "name": "USD+/USDC SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["USD+", "USDC"],
+
+        "wallet": ["0x219fbc3ed20152a9501dDAA47F2a8C193E32D0C6"],
+        "vaultAddress": "0xE42eA4E3EF0dB0023276612b9b243735287F649D",
+        "strategyAddress": "0x17b0Df3Dc314F4040Ef0d0A17982a316de1eCFca",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-etsgamma-usdp",
+        "name": "USD+/ETS GAMMA SolidLizard",
+        "creationDate": 1679270400,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["USD+", "ETSGAMMA"],
+
+        "wallet": ["0x97e5f60fA17816011039B908C19Fa4B43DE73731"],
+        "vaultAddress": "0x400464D212853cf503D2bBE352A2ae068D74154D",
+        "strategyAddress": "0x990E741104c6646705506ADFE566d3bf5299A756",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-mai-usdc",
+        "name": "MAI/USDC SolidLizard",
+        "creationDate": 1679270400,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["MAI", "USDC"],
+
+        "wallet": ["0xb2e5cbe39c92afb14cb8dbadcc138ea4a8614bae"],
+        "vaultAddress": "0xc8C8EB3C3e8930EC3Be0EE1C7F96Cf56ed9de0f9",
+        "strategyAddress": "0x60528a74ae17510f1171D9c6eBE344839d8e95C7",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-dola-usdc",
+        "name": "DOLA/USDC SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["DOLA", "USDC"],
+
+        "wallet": ["0xdf58c5f73ea1c9003abfeb9194eb817d256cb3ad"],
+        "vaultAddress": "0x49405ac1eAb6A420e046f1c715B679E67d22a565",
+        "strategyAddress": "0x60528a74ae17510f1171D9c6eBE344839d8e95C7",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-lusd-dai",
+        "name": "LUSD/DAI SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["LUSD", "DAI"],
+
+        "wallet": ["0x99fe59026A627e03ff34B9F2FA08bA70d7a703f9"],
+        "vaultAddress": "0xfD9Ab363b0CF270287F61ec3ed7C0FcA50feaF9e",
+        "strategyAddress": "0xabcBF9F6323cf14a3cc3B24E2f5e012a9E248055",
+
+        "togglers": {
+          "withdrawOnly": false
+        }
+      },
+      {
+        "id": "solidlizard-weth-usdc",
+        "name": "WETH/USDC SolidLizard",
+        "creationDate": 1677888000,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["WETH", "USDC"],
+
+        "wallet": ["0xe20F93279fF3538b1ad70D11bA160755625e3400"],
+        "vaultAddress": "0x8b1a3f2f31F94BC9fA87C76fE17818cf103c219e",
+        "strategyAddress": "0x699B539E047286516bc47bCE6F3a1A274B1FE6B3",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-dai-usdc",
+        "name": "DAI/USDC SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["DAI", "USDC"],
+
+        "wallet": ["0x07d7f291e731a41d3f0ea4f1ae5b6d920ffb3fe0"],
+        "vaultAddress": "0x5F159730712119CB399CEE85cE678d317Ee68260",
+        "strategyAddress": "0x682E7aFc2AFCCa39CbF3e1CC84C146f7857820C5",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-dai-usdt",
+        "name": "DAI/USDT SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["DAI", "USDT"],
+
+        "wallet": ["0x15b9d20bcaa4f65d9004d2bebac4058445fd5285"],
+        "vaultAddress": "0xDcfFe790e6eFDa3331b9cDa9d21f1401e25f6353",
+        "strategyAddress": "0x471F87254d5E914e6bd6fE4a4BE48Bd3c3c51c5D",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-sliz-spsliz",
+        "name": "SLIZ/spSLIZ SolidLizard",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["SLIZ", "spSLIZ"],
+
+        "wallet": ["0x6efef13c68959cea3293669f9294d826ccc31058"],
+        "vaultAddress": "0xCA669649c7ec9F90A57C739C4bDf9d02c9fAFE89",
+        "strategyAddress": "0xAcbb5C75C518610F8B7916bf21469C31Eec05941",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-jrt-weth",
+        "name": "JRT/WETH SolidLizard",
+        "creationDate": 1681689600,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["JRT", "WETH"],
+
+        "wallet": ["0x769fde1b25a48ea6d25f3e34f7de0f3c593cc841"],
+        "vaultAddress": "0x6917863C148beB8700a3CC48A0C26095f90D0195",
+        "strategyAddress": "0xAcbb5C75C518610F8B7916bf21469C31Eec05941",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "sterling-wsteth-weth",
+        "name": "wstETH/WETH Sterling",
+        "creationDate": 1677801600,
+
+        "status": "deprecated",
+        "platform": "sterling",
+        "poolComposition": ["WSTETH", "WETH"],
+
+        "wallet": ["0x70717296353f0CDAF1b9A5626455dEf6b6cF63a9"],
+        "vaultAddress": "0x89D5092Eb25B3e75d83128ac7c9c9Ac2eA705ab7",
+        "strategyAddress": "0xc7953B38F9d962620Ec427F903E894D8533484A7",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "sterling-spstr-str",
+        "name": "spSTR/STR Sterling",
+        "creationDate": 1677715200,
+
+        "status": "deprecated",
+        "platform": "sterling",
+        "poolComposition": ["spSTR", "STR"],
+
+        "wallet": ["0x4db060E95036A4ca1CEAa2D14D9F0bB6BD6FFb52"],
+        "vaultAddress": "0x6f3A405f8e67ef5f6b1655E13eAb26e344CD4AE0",
+        "strategyAddress": "0x034f5a5C09EF189d4d87714CDB6a222a769b13d4",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      },
+      {
+        "id": "solidlizard-jeur-ageur",
+        "name": "jEUR/agEUR SolidLizard",
+        "creationDate": 1683039600,
+
+        "status": "deprecated",
+        "platform": "solidlizard",
+        "poolComposition": ["jEUR", "agEUR"],
+
+        "wallet": ["0xacc13137378c2a63b550b5370df97c4d97a032f4"],
+        "vaultAddress": "0x64398ebD6e53423d30841e1b68993C95E6a78CE3",
+        "strategyAddress": "0x2474df221857f50f3a921cbffdb67e93b5aebfa8",
+
+        "togglers": {
+          "withdrawOnly": true
+        }
+      }
+    ]
+  },
+  "template": {
+    "id": "",
+    "name": "",
+    "creationDate": 0,
+
+    "status": "active",
+    "platform": "",
+    "poolComposition": ["", ""],
+
+    "wallet": [""],
+    "vaultAddress": "",
+    "strategyAddress": "",
+
+    "togglers": {}
+  }
+}

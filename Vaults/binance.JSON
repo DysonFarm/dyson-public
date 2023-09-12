@@ -1,0 +1,36 @@
+{
+  "vaults": {
+    "regular": [
+      {
+        "id": "dyson-thena-usdt-usdc",
+        "name": "USDT/USDC Thena",
+        "creationDate": 1676420597,
+
+        "status": "active",
+        "platform": "thena",
+        "poolComposition": ["USDT", "USDC"],
+
+        "wallet": ["0x618f9eb0e1a698409621f4f487b563529f003643"],
+        "vaultAddress": "0xD7f442f4fAD9C5C58425AC69C60670C05eE7cf9d",
+        "strategyAddress": "0xB51760C33220C396f60aE2a8E0B639e23c43624a",
+
+        "togglers": {}
+      }
+    ]
+  },
+  "template": {
+    "id": "",
+    "name": "",
+    "creationDate": 0,
+
+    "status": "active",
+    "platform": "",
+    "poolComposition": ["", ""],
+
+    "wallet": [""],
+    "vaultAddress": "",
+    "strategyAddress": "",
+
+    "togglers": {}
+  }
+}
