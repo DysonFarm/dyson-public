@@ -156,8 +156,8 @@
           "0x912ce59144191c1204e64559fe8253a0e49e6548",
           "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
         ],
-        "vaultAddress": "",
-        "strategyAddress": "",
+        "vaultAddress": "0x2e62d340cdc21848d444d6b454f89a541f9969d6",
+        "strategyAddress": "0x91e459499e9ac62b0eb5ccf20b15eb9fb9b160bb",
 
         "togglers": {}
       },
