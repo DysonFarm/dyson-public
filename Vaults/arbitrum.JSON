@@ -45,7 +45,10 @@
         "platform": "uniswap-v3",
         "poolComposition": ["WETH", "USDC.e"],
 
-        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", ""],
+        "wallet": [
+          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        ],
         "vaultAddress": "0xb5A3e0F1C9B3b9B8c478EDB8c62043b2beB7eDF1",
         "strategyAddress": "0x4458b4AaDCf376FF442f7e820E62bc90C00a45A5",
 
