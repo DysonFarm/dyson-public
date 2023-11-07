@@ -3,7 +3,7 @@
     "mint": [
       {
         "id": "mint-sphere-spfldx",
-        "name": "Mint spFLDX",
+        "name": "spFLDX",
         "creationDate": 1680652800,
 
         "status": "active",
@@ -20,7 +20,7 @@
       },
       {
         "id": "mint-sphere-spglcr",
-        "name": "Mint spGLCR",
+        "name": "spGLCR",
         "creationDate": 1680652800,
 
         "status": "active",

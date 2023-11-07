@@ -193,7 +193,7 @@
     "mint": [
       {
         "id": "mint-sphere-vesliz",
-        "name": "Mint spSLIZ",
+        "name": "spSLIZ",
         "creationDate": 1677715200,
 
         "status": "active",
@@ -210,7 +210,7 @@
       },
       {
         "id": "mint-sphere-vestr",
-        "name": "Mint spSTR",
+        "name": "spSTR",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -228,7 +228,7 @@
       },
       {
         "id": "mint-sphere-vechr",
-        "name": "Mint spCHR",
+        "name": "spCHR",
         "creationDate": 1677715200,
 
         "status": "active",
