@@ -13,9 +13,7 @@
         "vaultAddress": "0xD7f442f4fAD9C5C58425AC69C60670C05eE7cf9d",
         "strategyAddress": "0xB51760C33220C396f60aE2a8E0B639e23c43624a",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       }
     ]
   },

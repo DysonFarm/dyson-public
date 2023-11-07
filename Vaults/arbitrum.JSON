@@ -222,8 +222,7 @@
         "strategyAddress": "",
 
         "togglers": {
-          "bypassPeg": true,
-          "withdrawOnly": true
+          "bypassPeg": true
         }
       },
       {
@@ -258,9 +257,7 @@
         "vaultAddress": "0xaeD0E3CEC057Ca82cd562c358a91aEdd2510eCEc",
         "strategyAddress": "0x1cC6cC16c4B8D43668198829B78d9C80873D2492",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-ageur-usdc",
@@ -274,9 +271,7 @@
         "vaultAddress": "0xe5103Cc276370dD4012DAA6304C3f11187da3f85",
         "strategyAddress": "0x11f958d065Bc19DDEcd2a5C3E1399ef5866db978",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-lusd-usdt",
@@ -290,9 +285,7 @@
         "vaultAddress": "0xC2a16f7164B98CD6AcFFbcBd46defc6AA3B95A59",
         "strategyAddress": "0x8e120a16AbFF38b329D3dAd389cd9f6EEaFaCdfF",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-lusd-usdc",
@@ -306,9 +299,7 @@
         "vaultAddress": "0xaddB5609d0524d5FB65E626dDD135F5798d1748A",
         "strategyAddress": "0x208c8fe51d5BDF014E2303f87Eb92adFd52E2259",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-usdp-usdc",
@@ -322,9 +313,7 @@
         "vaultAddress": "0xE42eA4E3EF0dB0023276612b9b243735287F649D",
         "strategyAddress": "0x17b0Df3Dc314F4040Ef0d0A17982a316de1eCFca",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-etsgamma-usdp",
@@ -338,9 +327,7 @@
         "vaultAddress": "0x400464D212853cf503D2bBE352A2ae068D74154D",
         "strategyAddress": "0x990E741104c6646705506ADFE566d3bf5299A756",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-mai-usdc",
@@ -354,9 +341,7 @@
         "vaultAddress": "0xc8C8EB3C3e8930EC3Be0EE1C7F96Cf56ed9de0f9",
         "strategyAddress": "0x60528a74ae17510f1171D9c6eBE344839d8e95C7",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-dola-usdc",
@@ -370,9 +355,7 @@
         "vaultAddress": "0x49405ac1eAb6A420e046f1c715B679E67d22a565",
         "strategyAddress": "0x60528a74ae17510f1171D9c6eBE344839d8e95C7",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-lusd-dai",
@@ -386,9 +369,7 @@
         "vaultAddress": "0xfD9Ab363b0CF270287F61ec3ed7C0FcA50feaF9e",
         "strategyAddress": "0xabcBF9F6323cf14a3cc3B24E2f5e012a9E248055",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-weth-usdc",
@@ -402,9 +383,7 @@
         "vaultAddress": "0x8b1a3f2f31F94BC9fA87C76fE17818cf103c219e",
         "strategyAddress": "0x699B539E047286516bc47bCE6F3a1A274B1FE6B3",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-dai-usdc",
@@ -418,9 +397,7 @@
         "vaultAddress": "0x5F159730712119CB399CEE85cE678d317Ee68260",
         "strategyAddress": "0x682E7aFc2AFCCa39CbF3e1CC84C146f7857820C5",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-dai-usdt",
@@ -434,9 +411,7 @@
         "vaultAddress": "0xDcfFe790e6eFDa3331b9cDa9d21f1401e25f6353",
         "strategyAddress": "0x471F87254d5E914e6bd6fE4a4BE48Bd3c3c51c5D",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-sliz-spsliz",
@@ -450,9 +425,7 @@
         "vaultAddress": "0xCA669649c7ec9F90A57C739C4bDf9d02c9fAFE89",
         "strategyAddress": "0xAcbb5C75C518610F8B7916bf21469C31Eec05941",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-jrt-weth",
@@ -466,9 +439,7 @@
         "vaultAddress": "0x6917863C148beB8700a3CC48A0C26095f90D0195",
         "strategyAddress": "0xAcbb5C75C518610F8B7916bf21469C31Eec05941",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "sterling-wsteth-weth",
@@ -482,9 +453,7 @@
         "vaultAddress": "0x89D5092Eb25B3e75d83128ac7c9c9Ac2eA705ab7",
         "strategyAddress": "0xc7953B38F9d962620Ec427F903E894D8533484A7",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "sterling-spstr-str",
@@ -498,9 +467,7 @@
         "vaultAddress": "0x6f3A405f8e67ef5f6b1655E13eAb26e344CD4AE0",
         "strategyAddress": "0x034f5a5C09EF189d4d87714CDB6a222a769b13d4",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "solidlizard-jeur-ageur",
@@ -514,9 +481,7 @@
         "vaultAddress": "0x64398ebD6e53423d30841e1b68993C95E6a78CE3",
         "strategyAddress": "0x2474df221857f50f3a921cbffdb67e93b5aebfa8",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       }
     ]
   },

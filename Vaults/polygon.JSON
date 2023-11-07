@@ -170,8 +170,7 @@
         "strategyAddress": "",
 
         "togglers": {
-          "bypassPeg": true,
-          "withdrawOnly": true
+          "bypassPeg": true
         }
       }
     ],
@@ -203,9 +202,7 @@
         "vaultAddress": "0xcac1c87Ca48C860De5fD71431d002a0c06b6Ede4",
         "strategyAddress": "0xfd5e8e710f923305f5a4e7f3e9580d1cae3e14d9",
 
-        "togglers": {
-          "withdrawOnly": true
-        }
+        "togglers": {}
       },
       {
         "id": "balancer-stmatic-bbawmatic",
