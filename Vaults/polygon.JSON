@@ -190,7 +190,7 @@
         "name": "GNS",
         "creationDate": 1675814400,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "gains",
         "poolComposition": ["GNS"],
 
@@ -222,7 +222,7 @@
         "name": "stMATIC/bbaWMATIC Balancer",
         "creationDate": 1686355200,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "balancer",
         "poolComposition": ["stMATIC", "bbaWMATIC"],
 
