@@ -3,12 +3,11 @@
     "uniswap-v3": [
       {
         "id": "Dyson-opti-UniV3-WETH/USDC",
-        "name": "WETH/USDC Uniswap V3",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WETH", "USDC"],
+        "poolComposition": ["wETH", "USDC"],
 
         "wallet": [
           "0x4200000000000000000000000000000000000006",
@@ -21,12 +20,11 @@
       },
       {
         "id": "Dyson-opti-UniV3-WETH/OP",
-        "name": "WETH/OP Uniswap V3",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WETH", "OP"],
+        "poolComposition": ["wETH", "OP"],
 
         "wallet": [
           "0x4200000000000000000000000000000000000006",

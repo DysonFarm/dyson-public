@@ -3,7 +3,6 @@
     "regular": [
       {
         "id": "dyson-thena-usdt-usdc",
-        "name": "USDT/USDC Thena",
         "creationDate": 1676420597,
 
         "status": "deprecated",

@@ -3,12 +3,11 @@
     "uniswap-v3": [
       {
         "id": "Dyson-UniV3-USDC/WETH",
-        "name": "USDC/WETH Uniswap V3",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["USDC", "WETH"],
+        "poolComposition": ["USDC", "wETH"],
 
         "wallet": [
           "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
@@ -21,12 +20,11 @@
       },
       {
         "id": "Dyson-UniV3-USDC/WETH 30 Bps",
-        "name": "USDC/WETH Uniswap V3",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["USDC", "WETH"],
+        "poolComposition": ["USDC", "wETH"],
 
         "wallet": [
           "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
@@ -39,12 +37,11 @@
       },
       {
         "id": "Dyson-UniV3-WMATIC/USDC 5 Bps",
-        "name": "WMATIC/USDC Uniswap V3 5 Bps",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WMATIC", "USDC"],
+        "poolComposition": ["wMATIC", "USDC"],
 
         "wallet": [
           "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -57,12 +54,11 @@
       },
       {
         "id": "Dyson-UniV3-WMATIC/USDC 30 Bps",
-        "name": "WMATIC/USDC Uniswap V3 30 Bps",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WMATIC", "USDC"],
+        "poolComposition": ["wMATIC", "USDC"],
 
         "wallet": [
           "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -75,12 +71,11 @@
       },
       {
         "id": "Dyson-UniV3-WMATIC/WETH 5 Bps",
-        "name": "WMATIC/WETH Uniswap V3 5 Bps",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WMATIC", "WETH"],
+        "poolComposition": ["wMATIC", "wETH"],
 
         "wallet": [
           "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -93,12 +88,11 @@
       },
       {
         "id": "Dyson-UniV3-WMATIC/USDT 5 Bps",
-        "name": "WMATIC/USDT Uniswap V3 5 Bps",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WMATIC", "USDT"],
+        "poolComposition": ["wMATIC", "USDT"],
 
         "wallet": [
           "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -111,12 +105,11 @@
       },
       {
         "id": "Dyson-UniV3-WBTC/WETH 5 Bps",
-        "name": "WBTC/WETH Uniswap V3 5 Bps",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WBTC", "WETH"],
+        "poolComposition": ["wBTC", "wETH"],
 
         "wallet": [
           "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
@@ -129,12 +122,11 @@
       },
       {
         "id": "Dyson-UniV3-WMATIC/CRV 30 Bps",
-        "name": "WMATIC/CRV Uniswap V3 30 Bps",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WMATIC", "CRV"],
+        "poolComposition": ["wMATIC", "CRV"],
 
         "wallet": [
           "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -147,7 +139,6 @@
       },
       {
         "id": "Dyson-UniV3-USDC/USDT",
-        "name": "USDC/USDT Uniswap V3",
         "creationDate": 1676073600,
 
         "status": "active",
@@ -187,7 +178,6 @@
     "regular": [
       {
         "id": "Dyson-Strategy-Gains-DAI",
-        "name": "GNS",
         "creationDate": 1675814400,
 
         "status": "deprecated",
@@ -219,7 +209,6 @@
       },
       {
         "id": "balancer-stmatic-bbawmatic",
-        "name": "stMATIC/bbaWMATIC Balancer",
         "creationDate": 1686355200,
 
         "status": "deprecated",

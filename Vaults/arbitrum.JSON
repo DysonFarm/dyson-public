@@ -3,12 +3,11 @@
     "uniswap-v3": [
       {
         "id": "Dyson-arb-UniV3-WETH/GMX",
-        "name": "WETH/GMX Uniswap V3",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WETH", "GMX"],
+        "poolComposition": ["wETH", "GMX"],
 
         "wallet": [
           "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -21,12 +20,11 @@
       },
       {
         "id": "Dyson-arb-UniV3-WETH/USDT",
-        "name": "WETH/USDT Uniswap V3",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WETH", "USDT"],
+        "poolComposition": ["wETH", "USDT"],
         "wallet": [
           "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
           "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
@@ -38,12 +36,11 @@
       },
       {
         "id": "Dyson-arb-UniV3-WETH/USDC30bps",
-        "name": "WETH/USDC.e Uniswap V3 30 BPS",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WETH", "USDC.e"],
+        "poolComposition": ["wETH", "USDC.e"],
 
         "wallet": [
           "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -56,7 +53,6 @@
       },
       {
         "id": "Dyson-arb-UniV3-USDT/USDC5bps",
-        "name": "USDT/USDC.e Uniswap V3 5bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -74,12 +70,11 @@
       },
       {
         "id": "Dyson-arb-UniV3-WBTC/WETH",
-        "name": "WBTC/WETH Uniswap V3",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WBTC", "WETH"],
+        "poolComposition": ["wBTC", "wETH"],
 
         "wallet": [
           "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
@@ -92,12 +87,11 @@
       },
       {
         "id": "Dyson-arb-UniV3-WETH/USDC5bps",
-        "name": "WETH/USDC.e Uniswap V3 5 BPS",
         "creationDate": 1675814400,
 
         "status": "active",
         "platform": "uniswap-v3",
-        "poolComposition": ["WETH", "USDC.e"],
+        "poolComposition": ["wETH", "USDC.e"],
 
         "wallet": [
           "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -112,12 +106,11 @@
     "chronos-cl": [
       {
         "id": "Dyson-arb-ChrV3-WETH/USDT-5bps",
-        "name": "WETH/USDT Chronos V3 5Bps",
         "creationDate": 1691625600,
 
         "status": "active",
         "platform": "chronos-v3",
-        "poolComposition": ["WETH", "USDT"],
+        "poolComposition": ["wETH", "USDT"],
 
         "wallet": [
           "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -130,12 +123,11 @@
       },
       {
         "id": "Dyson-arb-ChrV3-WETH/USDCe-5bps",
-        "name": "WETH/USDC.e Chronos V3 5Bps",
         "creationDate": 1691625600,
 
         "status": "active",
         "platform": "chronos-v3",
-        "poolComposition": ["WETH", "USDC.e"],
+        "poolComposition": ["wETH", "USDC.e"],
 
         "wallet": [
           "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -148,7 +140,6 @@
       },
       {
         "id": "Dyson-arb-ChrV3-ARB/USDCe-5bps",
-        "name": "ARB/USDC.e Chronos V3 5Bps",
         "creationDate": 1691625600,
 
         "status": "active",
@@ -166,12 +157,11 @@
       },
       {
         "id": "Dyson-arb-ChrV3-WETH/ARB-5bps",
-        "name": "WETH/ARB Chronos V3 5Bps",
         "creationDate": 1691625600,
 
         "status": "active",
         "platform": "chronos-v3",
-        "poolComposition": ["WETH", "ARB"],
+        "poolComposition": ["wETH", "ARB"],
 
         "wallet": [
           "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -184,7 +174,6 @@
       },
       {
         "id": "Dyson-arb-ChrV3-STAR/USDCe-1bps",
-        "name": "STAR/USDC.e Chronos V3 1Bps",
         "creationDate": 1691625600,
 
         "status": "active",
@@ -259,7 +248,6 @@
     "regular": [
       {
         "id": "solidlizard-usdt-usdc",
-        "name": "USDT/USDC SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -276,12 +264,11 @@
       },
       {
         "id": "solidlizard-ageur-usdc",
-        "name": "agEUR/USDC SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
         "platform": "solidlizard",
-        "poolComposition": ["AGEUR", "USDC"],
+        "poolComposition": ["agEUR", "USDC"],
 
         "wallet": ["0x5cd95bc186E41419e6B48a0153833C8105781292"],
         "vaultAddress": "0xe5103Cc276370dD4012DAA6304C3f11187da3f85",
@@ -293,7 +280,6 @@
       },
       {
         "id": "solidlizard-lusd-usdt",
-        "name": "LUSD/USDT SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -310,7 +296,6 @@
       },
       {
         "id": "solidlizard-lusd-usdc",
-        "name": "LUSD/USDC SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -327,7 +312,6 @@
       },
       {
         "id": "solidlizard-usdp-usdc",
-        "name": "USD+/USDC SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -344,7 +328,6 @@
       },
       {
         "id": "solidlizard-etsgamma-usdp",
-        "name": "USD+/ETS GAMMA SolidLizard",
         "creationDate": 1679270400,
 
         "status": "deprecated",
@@ -361,7 +344,6 @@
       },
       {
         "id": "solidlizard-mai-usdc",
-        "name": "MAI/USDC SolidLizard",
         "creationDate": 1679270400,
 
         "status": "deprecated",
@@ -378,7 +360,6 @@
       },
       {
         "id": "solidlizard-dola-usdc",
-        "name": "DOLA/USDC SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -395,7 +376,6 @@
       },
       {
         "id": "solidlizard-lusd-dai",
-        "name": "LUSD/DAI SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -412,12 +392,11 @@
       },
       {
         "id": "solidlizard-weth-usdc",
-        "name": "WETH/USDC SolidLizard",
         "creationDate": 1677888000,
 
         "status": "deprecated",
         "platform": "solidlizard",
-        "poolComposition": ["WETH", "USDC"],
+        "poolComposition": ["wETH", "USDC"],
 
         "wallet": ["0xe20F93279fF3538b1ad70D11bA160755625e3400"],
         "vaultAddress": "0x8b1a3f2f31F94BC9fA87C76fE17818cf103c219e",
@@ -429,7 +408,6 @@
       },
       {
         "id": "solidlizard-dai-usdc",
-        "name": "DAI/USDC SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -446,7 +424,6 @@
       },
       {
         "id": "solidlizard-dai-usdt",
-        "name": "DAI/USDT SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -463,7 +440,6 @@
       },
       {
         "id": "solidlizard-sliz-spsliz",
-        "name": "SLIZ/spSLIZ SolidLizard",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -480,12 +456,11 @@
       },
       {
         "id": "solidlizard-jrt-weth",
-        "name": "JRT/WETH SolidLizard",
         "creationDate": 1681689600,
 
         "status": "deprecated",
         "platform": "solidlizard",
-        "poolComposition": ["JRT", "WETH"],
+        "poolComposition": ["JRT", "wETH"],
 
         "wallet": ["0x769fde1b25a48ea6d25f3e34f7de0f3c593cc841"],
         "vaultAddress": "0x6917863C148beB8700a3CC48A0C26095f90D0195",
@@ -497,12 +472,11 @@
       },
       {
         "id": "sterling-wsteth-weth",
-        "name": "wstETH/WETH Sterling",
         "creationDate": 1677801600,
 
         "status": "deprecated",
         "platform": "sterling",
-        "poolComposition": ["WSTETH", "WETH"],
+        "poolComposition": ["wstETH", "wETH"],
 
         "wallet": ["0x70717296353f0CDAF1b9A5626455dEf6b6cF63a9"],
         "vaultAddress": "0x89D5092Eb25B3e75d83128ac7c9c9Ac2eA705ab7",
@@ -514,7 +488,6 @@
       },
       {
         "id": "sterling-spstr-str",
-        "name": "spSTR/STR Sterling",
         "creationDate": 1677715200,
 
         "status": "deprecated",
@@ -531,7 +504,6 @@
       },
       {
         "id": "solidlizard-jeur-ageur",
-        "name": "jEUR/agEUR SolidLizard",
         "creationDate": 1683039600,
 
         "status": "deprecated",
