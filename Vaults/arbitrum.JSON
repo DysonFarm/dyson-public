@@ -407,7 +407,7 @@
         "strategyAddress": "0xabcBF9F6323cf14a3cc3B24E2f5e012a9E248055",
 
         "togglers": {
-          "withdrawOnly": false
+          "withdrawOnly": true
         }
       },
       {
