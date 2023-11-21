@@ -2,7 +2,7 @@
   "vaults": {
     "uniswap-v3": [
       {
-        "id": "Dyson-UniV3-USDC/WETH",
+        "id": "dyson-uniV3-USDC-WETH",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -19,7 +19,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-USDC/WETH 30 Bps",
+        "id": "dyson-uniV3-USDC-WETH30bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -36,7 +36,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-WMATIC/USDC 5 Bps",
+        "id": "dyson-uniV3-WMATIC-USDC5bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -53,7 +53,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-WMATIC/USDC 30 Bps",
+        "id": "dyson-uniV3-WMATIC-USDC30bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -70,7 +70,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-WMATIC/WETH 5 Bps",
+        "id": "dyson-uniV3-WMATIC-WETH5bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -87,7 +87,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-WMATIC/USDT 5 Bps",
+        "id": "dyson-uniV3-WMATIC-USDT5bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -104,7 +104,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-WBTC/WETH 5 Bps",
+        "id": "dyson-uniV3-WBTC-WETH5bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -121,7 +121,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-WMATIC/CRV 30 Bps",
+        "id": "dyson-uniV3-WMATIC-CRV30bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -138,7 +138,7 @@
         "togglers": {}
       },
       {
-        "id": "Dyson-UniV3-USDC/USDT",
+        "id": "dyson-uniV3-USDC-USDT",
         "creationDate": 1676073600,
 
         "status": "active",
