@@ -238,9 +238,12 @@
         "vaultAddress": "0xFEA2906087D82BD8Da630E7E2c7D9a4dEb061097",
         "strategyAddress": "",
 
-        "togglers": {
-          "bypassPeg": true,
+        "metadata": {
           "customMessage": "When minting spCHR you pay a 5% fee."
+        },
+
+        "togglers": {
+          "bypassPeg": true
         }
       }
     ],
