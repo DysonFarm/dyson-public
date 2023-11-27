@@ -49,6 +49,10 @@
         "vaultAddress": "0x1D61a6593Fd6e93f4ce39a0f885dF3C7f7b261C2",
         "strategyAddress": "0xcc63052d610252dfad58BefD649b75D1CeEDeb21",
 
+        "metadata": {
+          "buyURL": "https://www.glacier.exchange/liquidity"
+        },
+
         "togglers": {}
       }
     ]

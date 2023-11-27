@@ -32,6 +32,10 @@
         "vaultAddress": "0x97472aD4f0489d1d6139119A217457Caaa74c732",
         "strategyAddress": "0x43F862c545372b22C01eCE733FF243A3AD50e8A0",
 
+        "metadata": {
+          "buyURL": "https://equilibrefinance.com/pools/manage/0xaf9ae147ca628e9da718f63da3e6e248b8606b7b"
+        },
+
         "togglers": {}
       }
     ]
