@@ -261,7 +261,7 @@
         "id": "solidlizard-usdt-usdc",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["USDT", "USDC"],
 
@@ -275,7 +275,7 @@
         "id": "solidlizard-ageur-usdc",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["agEUR", "USDC"],
 
@@ -289,7 +289,7 @@
         "id": "solidlizard-lusd-usdt",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["LUSD", "USDT"],
 
@@ -303,7 +303,7 @@
         "id": "solidlizard-lusd-usdc",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["LUSD", "USDC"],
 
@@ -317,7 +317,7 @@
         "id": "solidlizard-usdp-usdc",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["USD+", "USDC"],
 
@@ -331,7 +331,7 @@
         "id": "solidlizard-etsgamma-usdp",
         "creationDate": 1679270400,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["USD+", "ETSGAMMA"],
 
@@ -345,7 +345,7 @@
         "id": "solidlizard-mai-usdc",
         "creationDate": 1679270400,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["MAI", "USDC"],
 
@@ -359,7 +359,7 @@
         "id": "solidlizard-dola-usdc",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["DOLA", "USDC"],
 
@@ -373,7 +373,7 @@
         "id": "solidlizard-lusd-dai",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["LUSD", "DAI"],
 
@@ -387,7 +387,7 @@
         "id": "solidlizard-weth-usdc",
         "creationDate": 1677888000,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["wETH", "USDC"],
 
@@ -401,7 +401,7 @@
         "id": "solidlizard-dai-usdc",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["DAI", "USDC"],
 
@@ -415,7 +415,7 @@
         "id": "solidlizard-dai-usdt",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["DAI", "USDT"],
 
@@ -429,7 +429,7 @@
         "id": "solidlizard-sliz-spsliz",
         "creationDate": 1677715200,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["SLIZ", "spSLIZ"],
 
@@ -443,7 +443,7 @@
         "id": "solidlizard-jrt-weth",
         "creationDate": 1681689600,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["JRT", "wETH"],
 
@@ -485,7 +485,7 @@
         "id": "solidlizard-jeur-ageur",
         "creationDate": 1683039600,
 
-        "status": "deprecated",
+        "status": "active",
         "platform": "solidlizard",
         "poolComposition": ["jEUR", "agEUR"],
 
