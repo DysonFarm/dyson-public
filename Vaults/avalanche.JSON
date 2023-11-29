@@ -14,6 +14,10 @@
         "vaultAddress": "0xE5b584f5f8B2872202433D56299e3867ba246C6E",
         "strategyAddress": "",
 
+        "metadata": {
+          "buyURL": "https://app.flairdex.xyz/swap"
+        },
+
         "togglers": {
           "bypassPeg": true
         }
@@ -30,6 +34,10 @@
         "wallet": ["0x3712871408a829c5cd4e86da1f4ce727efcd28f6"],
         "vaultAddress": "0xE98786B94520772DD9efcC670d72939e184A6198",
         "strategyAddress": "",
+
+        "metadata": {
+          "buyURL": "https://www.glacier.exchange/swap"
+        },
 
         "togglers": {
           "bypassPeg": true

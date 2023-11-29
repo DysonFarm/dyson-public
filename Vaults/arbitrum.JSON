@@ -204,6 +204,10 @@
         "vaultAddress": "0x5e14aa6dd1606e789be9de8ded0b78b36d1fa4a3",
         "strategyAddress": "",
 
+        "metadata": {
+          "buyURL": "https://solidlizard.finance/swap"
+        },
+
         "togglers": {
           "bypassPeg": false
         }
@@ -220,6 +224,10 @@
         "wallet": ["0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68"],
         "vaultAddress": "0x3b443e9b9b7f340c7b1417abfdc64132341873d4",
         "strategyAddress": "",
+
+        "metadata": {
+          "buyURL": ""
+        },
 
         "togglers": {
           "bypassPeg": true
@@ -239,7 +247,8 @@
         "strategyAddress": "",
 
         "metadata": {
-          "customMessage": "When minting spCHR you pay a 5% fee."
+          "customMessage": "When minting spCHR you pay a 5% fee.",
+          "buyURL": "https://app.chronos.exchange"
         },
 
         "togglers": {

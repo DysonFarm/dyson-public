@@ -14,6 +14,10 @@
         "vaultAddress": "0x489e54EEc6C228A1457975Eb150A7EFb8350b5bE",
         "strategyAddress": "",
 
+        "metadata": {
+          "buyURL": "https://equilibrefinance.com/swap"
+        },
+
         "togglers": {
           "bypassPeg": true
         }

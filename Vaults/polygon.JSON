@@ -169,6 +169,10 @@
         "vaultAddress": "0x3Ceb4c9CB783a7e7761f26E66133f7D84690728f",
         "strategyAddress": "",
 
+        "metadata": {
+          "buyURL": ""
+        },
+
         "togglers": {
           "bypassPeg": true
         }
