@@ -2,7 +2,7 @@
   "vaults": {
     "uniswap-v3": [
       {
-        "id": "dyson-arb-uniV3-WETH/GMX",
+        "id": "Dyson-arb-UniV3-WETH/GMX",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -19,7 +19,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-uniV3-WETH/USDT",
+        "id": "Dyson-arb-UniV3-WETH/USDT",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -35,7 +35,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-uniV3-WETH/USDC30bps",
+        "id": "Dyson-arb-UniV3-WETH/USDC30bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -52,7 +52,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-uniV3-USDT/USDC5bps",
+        "id": "Dyson-arb-UniV3-USDT/USDC5bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -69,7 +69,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-uniV3-WBTC/WETH",
+        "id": "Dyson-arb-UniV3-WBTC/WETH",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -86,7 +86,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-uniV3-WETH/USDC5bps",
+        "id": "Dyson-arb-UniV3-WETH/USDC5bps",
         "creationDate": 1675814400,
 
         "status": "active",
@@ -105,7 +105,7 @@
     ],
     "chronos-cl": [
       {
-        "id": "dyson-arb-chrV3-WETH/USDT5bps",
+        "id": "Dyson-arb-ChrV3-WETH/USDT-5bps",
         "creationDate": 1691625600,
 
         "status": "active",
@@ -122,7 +122,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-chrV3-WETH/USDC5bps",
+        "id": "Dyson-arb-ChrV3-WETH/USDCe-5bps",
         "creationDate": 1691625600,
 
         "status": "active",
@@ -139,7 +139,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-chrV3-ARB/USDC5bps",
+        "id": "Dyson-arb-ChrV3-ARB/USDCe-5bps",
         "creationDate": 1691625600,
 
         "status": "active",
@@ -156,7 +156,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-chrV3-WETH/ARB5bps",
+        "id": "Dyson-arb-ChrV3-WETH/ARB-5bps",
         "creationDate": 1691625600,
 
         "status": "active",
@@ -173,7 +173,7 @@
         "togglers": {}
       },
       {
-        "id": "dyson-arb-chrV3-STAR/USDC1bps",
+        "id": "Dyson-arb-ChrV3-STAR/USDCe-1bps",
         "creationDate": 1691625600,
 
         "status": "active",
