@@ -28,7 +28,7 @@
         "creationDate": 1680652800,
 
         "status": "active",
-        "platform": "dyson",
+        "platform": "glacier",
         "poolComposition": ["GLCR"],
 
         "wallet": ["0x3712871408a829c5cd4e86da1f4ce727efcd28f6"],

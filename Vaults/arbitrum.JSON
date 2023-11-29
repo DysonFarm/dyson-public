@@ -197,7 +197,7 @@
         "creationDate": 1677715200,
 
         "status": "active",
-        "platform": "dyson",
+        "platform": "solidlizard",
         "poolComposition": ["SLIZ"],
 
         "wallet": ["0x463913d3a3d3d291667d53b8325c598eb88d3b0e"],
@@ -218,7 +218,7 @@
         "creationDate": 1677715200,
 
         "status": "deprecated",
-        "platform": "dyson",
+        "platform": "sterling",
         "poolComposition": ["STR"],
 
         "wallet": ["0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68"],
@@ -239,7 +239,7 @@
         "creationDate": 1677715200,
 
         "status": "active",
-        "platform": "dyson",
+        "platform": "chronos-v3",
         "poolComposition": ["CHR"],
 
         "wallet": ["0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851"],
