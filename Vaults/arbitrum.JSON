@@ -9,10 +9,7 @@
         "platform": "uniswap-v3",
         "poolComposition": ["wETH", "GMX"],
 
-        "wallet": [
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-          "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
-        ],
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"],
         "vaultAddress": "0x6C7e1caF8AF916B7f0a493Dc89148Bb3f813d6d1",
         "strategyAddress": "0xb380f4E591fEc6A2646079DC4a72F0110cDF8EFa",
 
@@ -25,10 +22,7 @@
         "status": "active",
         "platform": "uniswap-v3",
         "poolComposition": ["wETH", "USDT"],
-        "wallet": [
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-          "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
-        ],
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"],
         "vaultAddress": "0x9c9790C82859DB18ce974FA5e9bD2927C845B1D4",
         "strategyAddress": "0xe9287b61b27c1FA37EECcaF20a04871d6fe53903",
 
@@ -42,10 +36,7 @@
         "platform": "uniswap-v3",
         "poolComposition": ["wETH", "USDC.e"],
 
-        "wallet": [
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
-        ],
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"],
         "vaultAddress": "0xb5A3e0F1C9B3b9B8c478EDB8c62043b2beB7eDF1",
         "strategyAddress": "0x4458b4AaDCf376FF442f7e820E62bc90C00a45A5",
 
@@ -59,10 +50,7 @@
         "platform": "uniswap-v3",
         "poolComposition": ["USDT", "USDC.e"],
 
-        "wallet": [
-          "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
-        ],
+        "wallet": ["0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9", "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"],
         "vaultAddress": "0x17831B2d149BD43fbdE0EB1b727F86aBBd5053fD",
         "strategyAddress": "0xAAaF1E4795D23923865e88413C65f7c8a366C18f",
 
@@ -76,10 +64,7 @@
         "platform": "uniswap-v3",
         "poolComposition": ["wBTC", "wETH"],
 
-        "wallet": [
-          "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
-        ],
+        "wallet": ["0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f", "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"],
         "vaultAddress": "0xb33775911fc0375538c2D90733f749AD8A203e00",
         "strategyAddress": "0x74dc3f6D138e9A8f38dF88BD9153075F42bFb205",
 
@@ -93,10 +78,7 @@
         "platform": "uniswap-v3",
         "poolComposition": ["wETH", "USDC.e"],
 
-        "wallet": [
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
-        ],
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"],
         "vaultAddress": "0x505A98d9aFda51D3dB779e2aA3941CbFF429BE7a",
         "strategyAddress": "0x04D9C66B4922A4BAe4aba29D2f2548a578853164",
 
@@ -112,10 +94,7 @@
         "platform": "chronos-v3",
         "poolComposition": ["wETH", "USDT"],
 
-        "wallet": [
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-          "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
-        ],
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"],
         "vaultAddress": "0xcd7e3bdbe5f4053f0c9e51013887aba8ccec239c",
         "strategyAddress": "0xbd9c12e5e2aa7311d8e738b9ce0dffe8483ebd34",
 
@@ -129,10 +108,7 @@
         "platform": "chronos-v3",
         "poolComposition": ["wETH", "USDC.e"],
 
-        "wallet": [
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
-        ],
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"],
         "vaultAddress": "0x9a56f822babfbfdc2f25cb34eb952ff38af869d8",
         "strategyAddress": "0x45d4d227863371b94bcb94e1375b604bc51cfd26",
 
@@ -146,10 +122,7 @@
         "platform": "chronos-v3",
         "poolComposition": ["ARB", "USDC.e"],
 
-        "wallet": [
-          "0x912ce59144191c1204e64559fe8253a0e49e6548",
-          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
-        ],
+        "wallet": ["0x912ce59144191c1204e64559fe8253a0e49e6548", "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"],
         "vaultAddress": "0x2e62d340cdc21848d444d6b454f89a541f9969d6",
         "strategyAddress": "0x91e459499e9ac62b0eb5ccf20b15eb9fb9b160bb",
 
@@ -163,10 +136,7 @@
         "platform": "chronos-v3",
         "poolComposition": ["wETH", "ARB"],
 
-        "wallet": [
-          "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-          "0x912ce59144191c1204e64559fe8253a0e49e6548"
-        ],
+        "wallet": ["0x82af49447d8a07e3bd95bd0d56f35241523fbab1", "0x912ce59144191c1204e64559fe8253a0e49e6548"],
         "vaultAddress": "0x951966d474f13260f90a3E770b53589013d49241",
         "strategyAddress": "0x5ac9da0a19b8333f871590956fc1af07fee99b84",
 
@@ -180,10 +150,7 @@
         "platform": "chronos-v3",
         "poolComposition": ["STAR", "USDC.e"],
 
-        "wallet": [
-          "0xc19669a405067927865b40ea045a2baabbbe57f5",
-          "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
-        ],
+        "wallet": ["0xc19669a405067927865b40ea045a2baabbbe57f5", "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"],
         "vaultAddress": "0xd416063128bf5A81D20547adaDf29b74440D6699",
         "strategyAddress": "0xb049225c99d6e52a74868f8aa785379106dc6e72",
 
@@ -252,7 +219,8 @@
         },
 
         "togglers": {
-          "bypassPeg": true
+          "bypassPeg": true,
+          "withdrawOnly": true
         }
       }
     ],
