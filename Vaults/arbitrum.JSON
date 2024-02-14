@@ -16,7 +16,9 @@
         "vaultAddress": "0x6C7e1caF8AF916B7f0a493Dc89148Bb3f813d6d1",
         "strategyAddress": "0xb380f4E591fEc6A2646079DC4a72F0110cDF8EFa",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-arb-UniV3-WETH/USDT",
@@ -32,7 +34,9 @@
         "vaultAddress": "0x9c9790C82859DB18ce974FA5e9bD2927C845B1D4",
         "strategyAddress": "0xe9287b61b27c1FA37EECcaF20a04871d6fe53903",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-arb-UniV3-WETH/USDC30bps",
@@ -49,7 +53,9 @@
         "vaultAddress": "0xb5A3e0F1C9B3b9B8c478EDB8c62043b2beB7eDF1",
         "strategyAddress": "0x4458b4AaDCf376FF442f7e820E62bc90C00a45A5",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-arb-UniV3-USDT/USDC5bps",
@@ -66,7 +72,9 @@
         "vaultAddress": "0x17831B2d149BD43fbdE0EB1b727F86aBBd5053fD",
         "strategyAddress": "0xAAaF1E4795D23923865e88413C65f7c8a366C18f",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-arb-UniV3-WBTC/WETH",
@@ -83,7 +91,9 @@
         "vaultAddress": "0xb33775911fc0375538c2D90733f749AD8A203e00",
         "strategyAddress": "0x74dc3f6D138e9A8f38dF88BD9153075F42bFb205",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-arb-UniV3-WETH/USDC5bps",
@@ -100,7 +110,9 @@
         "vaultAddress": "0x505A98d9aFda51D3dB779e2aA3941CbFF429BE7a",
         "strategyAddress": "0x04D9C66B4922A4BAe4aba29D2f2548a578853164",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       }
     ],
     "chronos-cl": [
@@ -108,7 +120,7 @@
         "id": "Dyson-arb-ChrV3-WETH/USDT-5bps",
         "creationDate": 1691625600,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "chronos-v3",
         "poolComposition": ["wETH", "USDT"],
 
@@ -125,7 +137,7 @@
         "id": "Dyson-arb-ChrV3-WETH/USDCe-5bps",
         "creationDate": 1691625600,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "chronos-v3",
         "poolComposition": ["wETH", "USDC.e"],
 
@@ -142,7 +154,7 @@
         "id": "Dyson-arb-ChrV3-ARB/USDCe-5bps",
         "creationDate": 1691625600,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "chronos-v3",
         "poolComposition": ["ARB", "USDC.e"],
 
@@ -159,7 +171,7 @@
         "id": "Dyson-arb-ChrV3-WETH/ARB-5bps",
         "creationDate": 1691625600,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "chronos-v3",
         "poolComposition": ["wETH", "ARB"],
 
@@ -176,7 +188,7 @@
         "id": "Dyson-arb-ChrV3-STAR/USDCe-1bps",
         "creationDate": 1691625600,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "chronos-v3",
         "poolComposition": ["STAR", "USDC.e"],
 
@@ -238,7 +250,7 @@
         "name": "spCHR",
         "creationDate": 1677715200,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "chronos-v3",
         "poolComposition": ["CHR"],
 

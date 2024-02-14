@@ -16,7 +16,9 @@
         "vaultAddress": "0x1b153352fe65b6cf5105bf285593797892fd083b",
         "strategyAddress": "0x6656cDfBc514AC02d3D9A4869ee511B51c92510F",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-USDC/WETH 30 Bps",
@@ -33,7 +35,9 @@
         "vaultAddress": "0x233aD09A43024e658A6Fb3a93C15dFA2444549Ee",
         "strategyAddress": "0x5020BD495f17f5626F4Fa31970bf99763140dB7b",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-WMATIC/USDC 5 Bps",
@@ -50,7 +54,9 @@
         "vaultAddress": "0x1576B3b53CcB4F0bB3f7A3F4276b0De641a7Adb0",
         "strategyAddress": "0x02359e119E241Af5A982295998A486d9B35842e5",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-WMATIC/USDC 30 Bps",
@@ -67,7 +73,9 @@
         "vaultAddress": "0xE4854e03f69f754f63086E6454BC89C173F3aC2C",
         "strategyAddress": "0x06aF8069F69DF2717267AE8e57058de5DaC97771",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-WMATIC/WETH 5 Bps",
@@ -84,7 +92,9 @@
         "vaultAddress": "0x6Df6355DB123C83fD33c0A3AAc790730E5d8bE59",
         "strategyAddress": "0xaDa3AC8Bc18803C2EaFDD4B41f83C94900761CE6",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-WMATIC/USDT 5 Bps",
@@ -101,7 +111,9 @@
         "vaultAddress": "0x07A10f6E67e63A33bf62415331def452080D86Bf",
         "strategyAddress": "0x43807Cbb138597f80D37d5F85359332f08dfEfA3",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-WBTC/WETH 5 Bps",
@@ -118,7 +130,9 @@
         "vaultAddress": "0xDc6f84429fE8Cf4b7c879123Faf5E0b8d9e0f490",
         "strategyAddress": "0x7f6dCCE64C01E930d93a2B1824Ac22aaF17074f7",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-WMATIC/CRV 30 Bps",
@@ -135,7 +149,9 @@
         "vaultAddress": "0x46088957EEc2b4ab7314B24493a22c8ee1C66187",
         "strategyAddress": "0x69561Ba14a232AA879d2fEBf86840b2C1ca1C3C4",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-UniV3-USDC/USDT",
@@ -152,7 +168,9 @@
         "vaultAddress": "0x0f82F88EE6f017F46CcAE0690a2e62B7ddAC730f",
         "strategyAddress": "0x5843Bf571ff204963618686C2d46Ca374B00c1fE",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       }
     ],
     "mint": [
