@@ -16,7 +16,9 @@
         "vaultAddress": "0x586e2F2CFBE1c6A072aD1D290af8823F0FedF888",
         "strategyAddress": "0xf3Cb6E3EdFee802B9BAAbabe693861C52A0B580D",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       },
       {
         "id": "Dyson-opti-UniV3-WETH/OP",
@@ -33,7 +35,9 @@
         "vaultAddress": "0xDF8E9fF8b495f10FA42F0c0Ec01627278E944202",
         "strategyAddress": "0x1d3Ae2a02fd0A9E1A4Ac83788B3066A1a31fB77e",
 
-        "togglers": {}
+        "togglers": {
+          "withdrawOnly": true
+        }
       }
     ]
   },
