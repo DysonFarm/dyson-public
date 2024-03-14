@@ -1,0 +1,21 @@
+{
+  "vaults": {
+    "mint": [],
+    "regular": []
+  },
+  "template": {
+    "id": "",
+    "name": "",
+    "creationDate": 0,
+
+    "status": "active",
+    "platform": "",
+    "poolComposition": ["", ""],
+
+    "wallet": [""],
+    "vaultAddress": "",
+    "strategyAddress": "",
+
+    "togglers": {}
+  }
+}
