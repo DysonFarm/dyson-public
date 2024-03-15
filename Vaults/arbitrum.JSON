@@ -562,7 +562,7 @@
         "id": "solidlizard-jeur-ageur",
         "creationDate": 1683039600,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "solidlizard",
         "poolComposition": ["jEUR", "agEUR"],
 

@@ -6,7 +6,7 @@
         "name": "spVARA",
         "creationDate": 1680652800,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "equilibre",
         "poolComposition": ["VARA"],
 
@@ -28,7 +28,7 @@
         "id": "equilibre-spvara-vara",
         "creationDate": 1680652800,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "equilibre",
         "poolComposition": ["spVARA", "VARA"],
 

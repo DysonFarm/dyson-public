@@ -6,7 +6,7 @@
         "name": "spFLDX",
         "creationDate": 1680652800,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "dyson",
         "poolComposition": ["FLDX"],
 
@@ -27,7 +27,7 @@
         "name": "spGLCR",
         "creationDate": 1680652800,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "glacier",
         "poolComposition": ["GLCR"],
 
@@ -49,7 +49,7 @@
         "id": "dyson-glcr-spglcr-glcr",
         "creationDate": 1681689600,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "glacier",
         "poolComposition": ["spGLCR", "GLCR"],
 
