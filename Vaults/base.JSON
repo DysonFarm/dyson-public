@@ -1,7 +1,26 @@
 {
   "vaults": {
     "mint": [],
-    "regular": []
+    "regular": [
+      {
+        "id": "dyson-base-aerodrome-star-usdbc",
+        "creationDate": 1710536400,
+
+        "status": "active",
+        "platform": "aerodrome",
+        "poolComposition": ["STAR", "USDbC"],
+
+        "wallet": ["0x7a823ff83d2A87AE7570a9934B0dC8B87Be9C14A"],
+        "vaultAddress": "0x3226C6d8D2B6e92b710BA73620Ff3FebC29BE9B9",
+        "strategyAddress": "0x5949ab2B5fA47740F1d9574f16ED9Fa5B03D1A6C",
+
+        "metadata": {
+          "buyURL": "https://aerodrome.finance/deposit?token0=0xc19669a405067927865b40ea045a2baabbbe57f5&token1=0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca&stable=true"
+        },
+
+        "togglers": {}
+      }
+    ]
   },
   "template": {
     "id": "",
