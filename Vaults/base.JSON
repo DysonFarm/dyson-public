@@ -24,7 +24,7 @@
         "id": "dyson-base-aerodrome-dola-usdc",
         "creationDate": 1710964800,
 
-        "status": "disabled",
+        "status": "active",
         "platform": "aerodrome",
         "poolComposition": ["DOLA", "USDC"],
 
