@@ -5,7 +5,7 @@
         "id": "Dyson-opti-UniV3-WETH/USDC",
         "creationDate": 1675814400,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "uniswap-v3",
         "poolComposition": ["wETH", "USDC"],
 
@@ -24,7 +24,7 @@
         "id": "Dyson-opti-UniV3-WETH/OP",
         "creationDate": 1675814400,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "uniswap-v3",
         "poolComposition": ["wETH", "OP"],
 
