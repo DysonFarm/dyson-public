@@ -37,6 +37,24 @@
         },
 
         "togglers": {}
+      },
+      {
+        "id": "dyson-base-aerodrome-usdc-star",
+        "creationDate": 1710984900,
+
+        "status": "active",
+        "platform": "aerodrome",
+        "poolComposition": ["USDC", "STAR"],
+
+        "wallet": ["0xF45F6cDBcd0D2D4Bf4d9758b032a66A2cf4e55C8"],
+        "vaultAddress": "0xda94C1225fdcED8cf74b0468E41E6b0d49D53b64",
+        "strategyAddress": "0x152FBf6f6447DD5f99cFC0c6E44b1344F4f90b80",
+
+        "metadata": {
+          "buyURL": "https://aerodrome.finance/deposit?token0=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&token1=0xc19669a405067927865b40ea045a2baabbbe57f5&stable=true"
+        },
+
+        "togglers": {}
       }
     ]
   },
