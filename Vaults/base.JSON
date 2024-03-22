@@ -55,6 +55,24 @@
         },
 
         "togglers": {}
+      },
+      {
+        "id": "dyson-base-aerodrome-dola-usdbc",
+        "creationDate": 1711137600,
+
+        "status": "active",
+        "platform": "aerodrome",
+        "poolComposition": ["DOLA", "USDbC"],
+
+        "wallet": ["0x0B25c51637c43decd6CC1C1e3da4518D54ddb528"],
+        "vaultAddress": "0xaCd84F7D98AdE6c5d47c698e0B2Fa9c4eEAB3dA7",
+        "strategyAddress": "0x6A8215Da1f7C19aedd418Ac5094bb7e3d70Ff84d",
+
+        "metadata": {
+          "buyURL": "https://aerodrome.finance/deposit?token0=0x4621b7a9c75199271f773ebd9a499dbd165c3191&token1=0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca&stable=true"
+        },
+
+        "togglers": {}
       }
     ]
   },
