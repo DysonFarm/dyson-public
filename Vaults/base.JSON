@@ -73,6 +73,24 @@
         },
 
         "togglers": {}
+      },
+      {
+        "id": "dyson-base-aerodrome-hyusd-eusd",
+        "creationDate": 1711569600,
+
+        "status": "active",
+        "platform": "aerodrome",
+        "poolComposition": ["hyUSD", "eUSD"],
+
+        "wallet": ["0xb5E331615FdbA7DF49e05CdEACEb14Acdd5091c3"],
+        "vaultAddress": "0xbfDb6140a85d669B136579E95e7673f27Ef41BB0",
+        "strategyAddress": "0x38014943778aE75c6ecfF468309D328e2d330Ea5",
+
+        "metadata": {
+          "buyURL": "https://aerodrome.finance/deposit?token0=0xCc7FF230365bD730eE4B352cC2492CEdAC49383e&token1=0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4&stable=false"
+        },
+
+        "togglers": {}
       }
     ]
   },
