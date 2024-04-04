@@ -91,6 +91,24 @@
         },
 
         "togglers": {}
+      },
+      {
+        "id": "dyson-base-aerodrome-ovn-usd+",
+        "creationDate": 1712188800,
+
+        "status": "active",
+        "platform": "aerodrome",
+        "poolComposition": ["OVN", "USD+"],
+
+        "wallet": ["0x61366A4e6b1DB1b85DD701f2f4BFa275EF271197"],
+        "vaultAddress": "0xF63291375D3eB7014fBe658F256c79163Dc308AB",
+        "strategyAddress": "0xCef7D2edb96F9614fb26B2A2Cb0A026F4AAdEC2D",
+
+        "metadata": {
+          "buyURL": "https://aerodrome.finance/deposit?token0=0xa3d1a8deb97b111454b294e2324efad13a9d8396&token1=0xb79dd08ea68a908a97220c76d19a6aa9cbde4376&stable=false"
+        },
+
+        "togglers": {}
       }
     ]
   },
