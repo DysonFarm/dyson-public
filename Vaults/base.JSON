@@ -145,6 +145,42 @@
         },
 
         "togglers": {}
+      },
+      {
+        "id": "dyson-base-aerodrome-usda-eura",
+        "creationDate": 1713561000,
+
+        "status": "active",
+        "platform": "aerodrome",
+        "poolComposition": ["USDA", "EURA"],
+
+        "wallet": ["0x79eF3eCDa775860a2351ae2A7B80C4d80ba47F72"],
+        "vaultAddress": "0xb8A2aF04101472E3747B7aa742fCF38EfF43f68C",
+        "strategyAddress": "0xDE71C1301DF51cF54b8aeE10F8b2060335cF12a3",
+
+        "metadata": {
+          "buyURL": "https://aerodrome.finance/deposit?token0=0x0000206329b97db379d5e1bf586bbdb969c63274&token1=0xa61beb4a3d02decb01039e378237032b351125b4&stable=false"
+        },
+
+        "togglers": {}
+      },
+      {
+        "id": "dyson-base-aerodrome-usda-usdc",
+        "creationDate": 1713561000,
+
+        "status": "active",
+        "platform": "aerodrome",
+        "poolComposition": ["USDA", "USDC"],
+
+        "wallet": ["0xE503312E932a3647AeAC8b00A8Bd1d04E6A73C08"],
+        "vaultAddress": "0xc48A6867923ca630740F542649E5f7f070FB93B2",
+        "strategyAddress": "0x8538Da9E8BBe427A95a8fa346969D629C889A154",
+
+        "metadata": {
+          "buyURL": "https://aerodrome.finance/deposit?token0=0x0000206329b97db379d5e1bf586bbdb969c63274&token1=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&stable=true"
+        },
+
+        "togglers": {}
       }
     ]
   },
