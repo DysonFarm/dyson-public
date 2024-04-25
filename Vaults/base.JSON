@@ -87,7 +87,7 @@
         "strategyAddress": "0x38014943778aE75c6ecfF468309D328e2d330Ea5",
 
         "metadata": {
-          "buyURL": "https://aerodrome.finance/deposit?token0=0xCc7FF230365bD730eE4B352cC2492CEdAC49383e&token1=0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4&stable=false"
+          "buyURL": "https://aerodrome.finance/deposit?token0=0xCc7FF230365bD730eE4B352cC2492CEdAC49383e&token1=0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4&type=-1"
         },
 
         "togglers": {}
@@ -105,7 +105,7 @@
         "strategyAddress": "0xCef7D2edb96F9614fb26B2A2Cb0A026F4AAdEC2D",
 
         "metadata": {
-          "buyURL": "https://aerodrome.finance/deposit?token0=0xa3d1a8deb97b111454b294e2324efad13a9d8396&token1=0xb79dd08ea68a908a97220c76d19a6aa9cbde4376&stable=false"
+          "buyURL": "https://aerodrome.finance/deposit?token0=0xa3d1a8deb97b111454b294e2324efad13a9d8396&token1=0xb79dd08ea68a908a97220c76d19a6aa9cbde4376&type=-1"
         },
 
         "togglers": {}
@@ -159,7 +159,7 @@
         "strategyAddress": "0xDE71C1301DF51cF54b8aeE10F8b2060335cF12a3",
 
         "metadata": {
-          "buyURL": "https://aerodrome.finance/deposit?token0=0x0000206329b97db379d5e1bf586bbdb969c63274&token1=0xa61beb4a3d02decb01039e378237032b351125b4&stable=false"
+          "buyURL": "https://aerodrome.finance/deposit?token0=0x0000206329b97db379d5e1bf586bbdb969c63274&token1=0xa61beb4a3d02decb01039e378237032b351125b4&type=-1"
         },
 
         "togglers": {}
