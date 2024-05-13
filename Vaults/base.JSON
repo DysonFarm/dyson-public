@@ -6,7 +6,7 @@
         "id": "dyson-base-aerodrome-star-usdbc",
         "creationDate": 1710536400,
 
-        "status": "active",
+        "status": "deprecated",
         "platform": "aerodrome",
         "poolComposition": ["STAR", "USDbC"],
 
